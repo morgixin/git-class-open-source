@@ -16,26 +16,21 @@ Olá! Sou Ana, estudante de Ciência da Computação na Universidade Federal Flu
 
 ## Habilidades
 
-<div style="display: flex; justify-content: center; gap: 10px">
-
+<div align="center" style="display: flex; justify-content: center; gap: 10px">
+    
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 </div>
 
 ## GitHub Stats
 
-<div style="display: flex; justify-content: space-evenly">
+<div align="center" style="display: flex; justify-content: space-evenly;">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=morgixin&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=morgixin&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 </div>
 
@@ -43,7 +38,7 @@ Olá! Sou Ana, estudante de Ciência da Computação na Universidade Federal Flu
 
 Minha contribuição para o repositório open-source da oficina:
 
-<div style="display: flex; justify-content: center;">
+<div align="center" style="display: flex; justify-content: center;">
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=morgixin&repo=git-workshop-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/morgixin/git-workshop-open-source)
 
@@ -51,12 +46,10 @@ Minha contribuição para o repositório open-source da oficina:
 
 Sinta-se livre para adicionar issues e principalmente sugestões de features em meus repositórios! Fico feliz de receber novas ideias :)
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px">
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=morgixin&repo=weather-app&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/morgixin/weather-app)
-
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=morgixin&repo=pet-haven&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/morgixin/pet-haven)
-
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=morgixin&repo=planner&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/morgixin/planner)
 
 </div>
